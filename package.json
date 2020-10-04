@@ -5,6 +5,6 @@
     "start": "companion"
   },
   "dependencies": {
-    "@uppy/companion": "^1.13.1"
+    "@uppy/companion": "2.0.2"
   }
 }
