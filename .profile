@@ -1,0 +1,1 @@
+export COMPANION_PORT=$PORT
